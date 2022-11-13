@@ -1,5 +1,7 @@
 # Streaming_Processing-Analytics_Transaksi_Penjualan_with_Kafka-FDSA
 
+<b>Membuat Arsitektur Data Warehouse menggunakan Streaming Processing Kafka untuk kebutuhan analisa transaksi penjualan</b>
+
 Tujuan :
 - Insert Data Log ke Data Warehouse (Postgres) secara Real-Time
 
